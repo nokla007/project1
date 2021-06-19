@@ -1,5 +1,4 @@
 #EXTM3U
-#EXTINF:-1,Sharkboy and Lavagirl
-https://nlny.openstream.to/b36a0bea25a39c0689ab919a3614fed307f1797f6b5def6a62af906f8c53e0be6e7d492d1b203fb16939a2f25ce3bc148273a23d900b80a046c55da3db2f87413d5221d550f482527b480e778957f669c31c36f5043df67ac485982d2cdef5a5982ae04de8ed2bdc3c5e957a77eef7e9d1eec8abee686f07f720733af732c6ad/m/hls/720/720.m3u8
-#EXTINF:-1,Zootopia
-http://172.20.20.26//ftpdata/disk7/movies/animation/2011-2020/Zootopia%20(2016)/Zootopia%202016.mkv
+#EXTINF:-1,Ten-2
+https://cdn.naturalbd.com/SonyTen2/index.m3u8?token=760c06fa826dcb7dd18f37e0ab21db25c66738d0-95d6cd240f30e1dbad9c6158fdb1eebc-1624130607-1624119807
+
