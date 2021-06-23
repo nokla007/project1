@@ -1,4 +1,5 @@
 #EXTM3U
 #EXTINF:-1,Ten-2
 https://cdn.naturalbd.com/SonyTen2/index.m3u8?token=760c06fa826dcb7dd18f37e0ab21db25c66738d0-95d6cd240f30e1dbad9c6158fdb1eebc-1624130607-1624119807
-
+#EXTINF:-1,Ten-1
+https://cdn.naturalbd.com/SonyTen1/index.m3u8?token=7022e5734875c6f231ce5627df8ca6c0591d6b30-742926ac0cc44c6e3720d3b30eedae09-1624468404-1624457604
